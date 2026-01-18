@@ -1,0 +1,28 @@
+** start of script.js **
+
+//variables
+
+let adjective = "lonely ";
+let noun = "dragon ";
+let verb = "cooking ";
+let place = "cave ";
+let adjective2 = "unique ";
+let noun2 = "barbeque";
+
+let firstStory = "Once upon a time, there was a(n) " + adjective + " " + noun + " who loved to eat " + noun2 + "." + " The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+
+console.log("First story: " + firstStory);
+
+adjective = "talented";
+noun = "cat";
+verb = "baking";
+place = "hut";
+adjective2 = "rare";
+noun2 = "cakes";
+
+let secondStory = "Once upon a time, there was a(n) " + adjective + " " + noun + " who loved to eat " + noun2 + "." + " The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+
+console.log("Second story: " + secondStory);
+
+** end of script.js **
+
